@@ -25,7 +25,7 @@ For [Jekyll]:
 
 ~~~liquid
 {% highlight whatlang %}
-
+3range@(`Hello, world!\n`)#__
 {% endhighlight %}
 ~~~
 
@@ -33,7 +33,7 @@ or use fenced code blocks in Markdown / [Kramdown]:
 
 ~~~markdown
 ```whatlang
-
+3range@(`Hello, world!\n`)#__
 ```
 ~~~
 
