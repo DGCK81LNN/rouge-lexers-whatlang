@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    rouge-lexers-whatlang (1.0.0)
+      rouge (>= 3.0, < 5.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rouge (4.7.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+  x86-mingw32
+  x86_64-linux
+
+DEPENDENCIES
+  rouge-lexers-whatlang!
+
+BUNDLED WITH
+   2.3.3
